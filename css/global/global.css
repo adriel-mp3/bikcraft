@@ -11,8 +11,11 @@ ul,a,h1,p{
   padding: 0;
   list-style: none;
   text-decoration: none;
-  color:inherit
 }
+a{
+  color:inherit;
+}
+
 img{
   max-width: 100%;
   display: block;
