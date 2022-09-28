@@ -12,8 +12,9 @@ ul,a,h1,p{
   list-style: none;
   text-decoration: none;
 }
-a{
+a {
   color:inherit;
+  font: inherit;
 }
 
 img{
