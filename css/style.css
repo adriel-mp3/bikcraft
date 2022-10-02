@@ -2,6 +2,7 @@
 @import "./ultilidades/tipografia.css";
 @import "./ultilidades/cores.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 @import "./home/introducao.css";
 @import "./ultilidades/componentes.css";
 @import "./bicicletas-lista/bicicletas-lista.css";
