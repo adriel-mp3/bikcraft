@@ -1,0 +1,18 @@
+.bicicletas-bg{
+  background-color: var(--cor-11);
+}
+
+.bicicletas{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap:40px;
+  margin-top: 60px;
+}
+
+.bicicletas-conteudo{
+  display: grid;
+}
+
+.bicicletas-conteudo a{
+  justify-self: end;
+}
