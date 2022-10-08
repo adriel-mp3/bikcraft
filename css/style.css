@@ -5,6 +5,7 @@
 @import "./global/footer.css";
 @import "./home/introducao.css";
 @import "./ultilidades/componentes.css";
+@import "./ultilidades/formulario.css";
 @import "./bicicletas-lista/bicicletas-lista.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
@@ -12,6 +13,8 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 @import "./termos/termos.css";
 @import "./bicicletas-lista/bicicletas.css";
 @import "./bicicleta/bicicleta.css";
