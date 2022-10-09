@@ -1,5 +1,5 @@
 #contato {
-  background:linear-gradient(var(--cor-11) 600px,var(--cor-1) 0)
+  background:linear-gradient(var(--cor-11) 595px,var(--cor-1) 0)
 }
 
 .contato {
@@ -100,3 +100,5 @@
     margin-bottom: 12px;
   }
 }
+
+
